@@ -21,7 +21,12 @@
 <script setup>
 	import { defineProps, reactive } from 'vue'
 
-	defineProps({ msg: { type: String, required: true }})
+	defineProps({
+		msg: { 
+			type: String,
+			required: true,
+		},
+	})
 
 	const state = reactive({ count: 0 })
 </script>
