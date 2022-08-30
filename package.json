@@ -32,6 +32,6 @@
 		"stylelint-declaration-block-no-ignored-properties": "^2.4.0",
 		"stylelint-high-performance-animation": "^1.5.2",
 		"stylelint-no-unsupported-browser-features": "^5.0.1",
-		"vite": "^2.4.4"
+		"vite": "^2.9.13"
 	}
 }
